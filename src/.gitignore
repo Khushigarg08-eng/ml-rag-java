@@ -1,0 +1,20 @@
+# Maven
+target/
+
+# RAG data
+data/
+
+# API keys / environment variables
+.env
+.env.*
+*.key
+*.pem
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
